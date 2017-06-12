@@ -1,4 +1,4 @@
-# FreeBSD Node.js builds for nvm to speed up dev machines deployment
+# FreeBSD Node.js builds for nvm
 > For development purposes only, do not use in production environment!
 
 
